@@ -1,0 +1,14 @@
+C:\Users\Pistacho\Documents\C sharp\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.exe
+C:\Users\Pistacho\Documents\C sharp\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.deps.json
+C:\Users\Pistacho\Documents\C sharp\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+C:\Users\Pistacho\Documents\C sharp\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.dll
+C:\Users\Pistacho\Documents\C sharp\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.pdb
+C:\Users\Pistacho\Documents\C sharp\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pistacho\Documents\C sharp\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\Pistacho\Documents\C sharp\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+C:\Users\Pistacho\Documents\C sharp\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Pistacho\Documents\C sharp\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.dll
+C:\Users\Pistacho\Documents\C sharp\CsharpProjects\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+C:\Users\Pistacho\Documents\C sharp\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.pdb
+C:\Users\Pistacho\Documents\C sharp\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+C:\Users\Pistacho\Documents\C sharp\CsharpProjects\TestProject\obj\Debug\net7.0\ref\TestProject.dll
